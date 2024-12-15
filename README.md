@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Firebase when dealing with asynchronous operations and document snapshots.  The `bug.js` file shows the incorrect approach, leading to an error. The `bugSolution.js` file provides the corrected solution using `.then()` to ensure the data is available before access.
